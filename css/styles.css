@@ -1,0 +1,30 @@
+.wrapper {
+	font: 14px Sans-serif;
+	width: 600px;
+	margin: 0 auto;
+	border: 1px solid black;
+}
+
+input {
+	width: 200px;
+}
+
+#field {
+	margin: 0 auto;
+}
+
+#field td {
+	width: 10px;
+	height: 10px;
+	margin: 0;
+	padding: 0;
+	border: 1px solid lightgrey;
+}
+
+.alive {
+	background-color: lightblue;
+}
+
+.dead {
+	background-color: white;
+}
